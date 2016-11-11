@@ -38,7 +38,8 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>core.App</mainClass>
+			<!-- <mainClass>core.App</mainClass> -->
+				<mainClass>core.Selenium</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
